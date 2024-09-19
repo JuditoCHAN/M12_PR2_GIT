@@ -13,12 +13,7 @@ class Person
    * @var int
    */
   private $age;
-  /**
-     * Person name
-     *
-     * @var string
-     */
-    private $name;
+ 
   /**
    * Get age of person
    *
