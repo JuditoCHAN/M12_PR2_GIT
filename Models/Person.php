@@ -13,12 +13,14 @@ class Person
    * @var int
    */
   private $age;
+ 3-move-attribute-name-from-coach-class-to-person-class
   /**
      * Person name
      *
      * @var string
      */
     private $name;
+
   /**
    * Get age of person
    *

@@ -92,4 +92,9 @@ class Player extends Person
         return $this;
     }
 
+    public function passBall ()
+    {
+        echo "He pasado la pelota";
+    }
+
 }
